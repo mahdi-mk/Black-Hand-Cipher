@@ -1,0 +1,16 @@
+﻿_______________________________________________________________________________________________
+>> WELCOME TO BLACK HANDS CIPHER <<
+>> Created By Pandaluem L. Quartes <<
+>> Program Made With Love By Sayed <<
+
+>> Instructions To Use The Application
+1. Answer to the questions as a short answer(ex: yes, no, code, decode etc.).
+2. Do not use any mark (, . ; ' "" / ? ! @ # $ % ^ & * etc.) and numbers when you want to code or decode.
+3. Do not put long spaces between words, space should be only one click on the space bar button of your keyboard.
+
+
+B.H.C 2019
+Version 1.0.0
+Made With Love By Pandaluem L. Quartes And Sayed
+_______________________________________________________________________________________________
+
