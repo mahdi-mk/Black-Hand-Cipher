@@ -6,7 +6,6 @@ Just a simple console application to code and decode a B.H.C cipher
 2. Do not use any mark (, . ; ' "" / ? ! @ # $ % ^ & * etc.) and numbers when you want to code or decode.
 3. Do not put long spaces between words, space should be only one click on the space bar button of your keyboard.
 
-- Made With :heart: By Mahdi Al-Mousawi (Sayed).
+- Made With :heart: By [Mahdi Al-Mousawi] : https://www.instagram.com/mahdi.almousavi/ (Sayed).
 - Cipher Created By Pandaluem L. Quartes.
-- B.H.C 2019
-- Version 1.0.0
+© B.H.C 2019
