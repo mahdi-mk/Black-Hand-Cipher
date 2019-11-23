@@ -30,6 +30,7 @@ namespace BHC
             }
 
             return CodedWord;
+
         }
 
         /// <summary>
